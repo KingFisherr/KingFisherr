@@ -12,6 +12,7 @@ const Tahsin = {
 <br/>
 
 <img src='https://i.imgur.com/wPpdvLq.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
-<img src= "https://i.imgur.com/aIUFxgA.gif" width=205>
+<img src='https://i.imgur.com/aIUFxgA.gif' title='Video Walkthrough' width='205' alt='Video Walkthrough' />
+
 <img src='https://i.imgur.com/8SpkZF3.gif' title='Video Walkthrough' width='205' alt='Video Walkthrough' />
 <br/>
