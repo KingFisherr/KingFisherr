@@ -5,7 +5,7 @@ const Tahsin = {
   pronouns: "He" | "Him",
   code: [C/C++, Swift, Objective-C, Java, Python, HTML, CSS/Bootstrap, JavaScript, JSON, SQL],
   technologies: [Git/GitHub, XCode, Linux, Android Studio, Figma, Google Slides, 
-          Google Sheets, Google Docs, Trello Board, Jira, WordPress]
+          Google Sheets, Google Docs, Trello Board, Jenkins, WordPress]
 }
 ```
 
@@ -19,5 +19,5 @@ const Tahsin = {
 
 [<img width=200px src="https://i.imgur.com/wPpdvLq.gif">]&nbsp;
 [<img width=205px src="https://i.imgur.com/2o105cM.gif">]&nbsp;
+[<img width=200px src="https://i.imgur.com/Cd9W5kb.gif">]&nbsp;
 [<img width=200px src="https://i.imgur.com/8SpkZF3.gif">]&nbsp;
-[<img width=200px src="https://i.imgur.com/aIUFxgA.gif">]&nbsp;
