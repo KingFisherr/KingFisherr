@@ -19,5 +19,4 @@ const Tahsin = {
 
 [<img width=200px src="https://i.imgur.com/wPpdvLq.gif">]&nbsp;
 [<img width=205px src="https://i.imgur.com/2o105cM.gif">]&nbsp;
-[<img width=200px src="https://i.imgur.com/Cd9W5kb.gif">]&nbsp;
 [<img width=200px src="https://i.imgur.com/8SpkZF3.gif">]&nbsp;
