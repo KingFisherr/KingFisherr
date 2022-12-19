@@ -2,7 +2,6 @@
 <br/>
 ```javascript
 const Tahsin = {
-  pronouns: "He" | "Him",
   code: [C/C++, Swift, Objective-C, Java, Python, HTML, CSS/Bootstrap, JavaScript, JSON, SQL],
   technologies: [Git/GitHub, XCode, Linux, Android Studio, Figma, Google Slides, 
           Google Sheets, Google Docs, Trello Board, Jenkins, WordPress]
